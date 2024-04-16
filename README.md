@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1199919
+- 👋 Hi, I’m @salmanMuxke
 - 👀 I’m interested in interacting with fellow developers
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on projects
